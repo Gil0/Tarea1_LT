@@ -1,0 +1,10 @@
+C:\Users\Gil0\source\repos\LenguajesYTraductores\Tarea_1\Tarea_1\bin\Debug\Tarea_1.exe.config
+C:\Users\Gil0\source\repos\LenguajesYTraductores\Tarea_1\Tarea_1\bin\Debug\Tarea_1.exe
+C:\Users\Gil0\source\repos\LenguajesYTraductores\Tarea_1\Tarea_1\bin\Debug\Tarea_1.pdb
+C:\Users\Gil0\source\repos\LenguajesYTraductores\Tarea_1\Tarea_1\obj\Debug\Tarea_1.csprojAssemblyReference.cache
+C:\Users\Gil0\source\repos\LenguajesYTraductores\Tarea_1\Tarea_1\obj\Debug\Tarea_1.Form1.resources
+C:\Users\Gil0\source\repos\LenguajesYTraductores\Tarea_1\Tarea_1\obj\Debug\Tarea_1.Properties.Resources.resources
+C:\Users\Gil0\source\repos\LenguajesYTraductores\Tarea_1\Tarea_1\obj\Debug\Tarea_1.csproj.GenerateResource.cache
+C:\Users\Gil0\source\repos\LenguajesYTraductores\Tarea_1\Tarea_1\obj\Debug\Tarea_1.csproj.CoreCompileInputs.cache
+C:\Users\Gil0\source\repos\LenguajesYTraductores\Tarea_1\Tarea_1\obj\Debug\Tarea_1.exe
+C:\Users\Gil0\source\repos\LenguajesYTraductores\Tarea_1\Tarea_1\obj\Debug\Tarea_1.pdb
